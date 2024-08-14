@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://rose-thea-4.tiiny.site](https://rose-thea-4.tiiny.site)
 
-- ⚡ Fun fact *I'm an introvert who likes to game*
+- ⚡ Fun fact *I'm an introvert who likes to game and also a big fun of Anime*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
