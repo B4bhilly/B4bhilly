@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gorman Shaphat Fiifi</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
-
-- 🔭 I’m currently working on [WhatsApp clone](https://github.com/Nierdevi/Synk_-WhatApp_clone-_Group2.git)
+<h3 align="center">A passionate frontend developer </h3>
 
 - 📫 How to reach me *gormanshaphat@gmail.com*
 
